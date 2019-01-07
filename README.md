@@ -1,5 +1,9 @@
 # cams
 
+## Deployment
+
+We can take /dist folder files and place them in any web server. Application will start working.
+
 ## Project setup
 ```
 npm install
