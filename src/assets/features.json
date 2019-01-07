@@ -1,0 +1,117 @@
+[{
+    "data": {
+      "title": "Custom Web Form Builder",
+      "description": "Build professional & secure website forms using our easy drag-and-drop editor. No coding needed. Save 100s of hours. CAMS made it effortless to design online forms with ease using a simple drag and drop interface. Embed the instantly designed forms to manage your cases effectively. Collect payments, gather customer data, and automate your day-to-day tasks in just a few clicks. Data collection and management have never been this painless.",
+      "color": "#faa928",
+      "videoUrl": "https://www.youtube.com/embed/W6Vv0e_ur1o?rel=0",
+      "invert": false
+    }
+  },
+  {
+    "title": "Create Instantly",
+    "description": "Web forms and templates are customized in CAMS with a great base of user-defined fields. Also, you can reuse the fields from your other forms.",
+    "icon": "materialicon_6.svg"
+  },
+  {
+    "title": "Attach to the Workflow Easily",
+    "description": "Attach the responsive forms to the corresponding steps in your workflow. The forms you built are HTML5 versions at multiple resolutions.",
+    "icon": "materialicon_5.svg"
+  },
+  {
+    "title": "Boost your Forms",
+    "description": "Powerful calculations, dynamic repeating sections, file uploads, conditional logic, electronic signatures and many more. You can boost your forms that way your need demands.",
+    "icon": "materialicon_3.svg"
+  },
+  {
+    "title": "Connect your Forms",
+    "description": "You can now use the fields on one form to populate dropdowns, perform calculations, or display text in the new form.",
+    "icon": "fontawesome47_1-2.svg"
+  },
+  {
+    "data": {
+      "title": "Seamlessly Create Workflows",
+      "description": "Create great workflows with formalized BPM notations for all your domains. CAMS allows you to combine the sequential flow style with both time and event driven executions. This workflow creation helps you determine each state of the case and turnaround time to complete the case while providing clear understanding on the subsequent steps to be launched. CAMS workflow creation doesn't need any adjustments and works perfectly for all case-driven business applications.",
+      "color": "#d1a8ed",
+      "videoUrl": "https://www.youtube.com/embed/Yb6N-JuXtjI?rel=0",
+      "invert": true
+    }
+  },
+  {
+    "title": "Linking Case",
+    "description": "The CAMS workflow modules provide the ability to link another case to the case that is already in consideration.",
+    "icon": "pixleicon_2.svg"
+  },
+  {
+    "title": "Workflow Search",
+    "description": "The Search screen is rendered dynamically based on the fields marked as searchable in any of the forms associated with the workflow",
+    "icon": "retinaicon_1-3.svg"
+  },
+  {
+    "title": "Improve Compliance",
+    "description": "Include in the workflow and never miss another inspection form, audit or other crucial information due to problems with paperwork and outdated processes",
+    "icon": "retinaicon_1.svg"
+  },
+  {
+    "title": "Customize for your firm",
+    "description": "Tailor the workflows as per the practice areas available in your firm. Create one workflow that templatizes the fields that relate to different cases.",
+    "icon": "materialicon_7.svg"
+  },
+  {
+    "data": {
+      "title": "Internal Messaging at its Best",
+      "description": "CAMS provides the robust internal messaging feature that helps the teams improve engagement with everyone in the organization. Enhance communication to build a culture of transparency, keeping everyone from leadership to Firstline Workers informed, aligned, and moving forward. Build communities of interest to bring people together around shared topics, interests, or areas of practice. Gather ideas and feedback from across your network of colleagues to build on the work of others and achieve better outcomes.",
+      "color": "#3ea9f5",
+      "videoUrl": "https://www.youtube.com/embed/Yb6N-JuXtjI?rel=0",
+      "invert": false
+    }
+  },
+  {
+    "title": "Add Structure to Contacts List",
+    "description": "CAMS made it easy to add bulk contacts in the list, simply by importing users from your existing active directory or LDAP.",
+    "icon": "materialicon_4-1.svg"
+  },
+  {
+    "title": "Secured Communication",
+    "description": "Your communication on CAMS platform is encrypted using AES256, which meets military standard. Your staff can exchange messages securely connected to any WiFi.",
+    "icon": "materialicon_8.svg"
+  },
+  {
+    "title": "Messages are Saved",
+    "description": "Your file transmissions and text messages can never be lost but are always traceable as they are logged on both client and server side.",
+    "icon": "retinaicon_1-1.svg"
+  },
+  {
+    "title": "Screen Sharing",
+    "description": "Your staff can collaborate more effectively using the screen sharing ability in the messenger.",
+    "icon": "materialicon_9.svg"
+  },
+  {
+    "data": {
+      "title": "CAMS Utilities",
+      "description": "CAMS is carefully built for a number of useful and practical purposes like  data capturing, data processing, collaboration and relationship management. The system has centralized document management, email notifications, notes taking which are essential for any case management. The calendar system helps users to sync their calendars, manage appointments, tasks and deadlines.",
+      "color": " #f27398",
+      "videoUrl": "https://www.youtube.com/embed/Yb6N-JuXtjI?rel=0",
+      "invert": true
+    }
+  },
+  {
+    "title": "Built-in Email",
+    "description": "The cloud-based CAMS helps you organize all case-related emails, avoid sending emails to the wrong recipients, keep the peers informed about the case proceedings.",
+    "icon": "materialicon_4.svg"
+  },
+  {
+    "title": "Task Management",
+    "description": "Manage your tasks effectively by creating a To-Do list of tasks and significantly reduce the margin of error. You can also convert incoming emails into tasks and make them recur as per your workflow.",
+    "icon": "retinaicon_2.svg"
+  },
+  {
+    "title": "Scheduling is simple",
+    "description": "CAMS calendar made the scheduling simpler and user-centric with color-coded categories, reminders, time tracking, autocomplete addresses and many more. Join your appointments right from the dashboard.",
+    "icon": "retinaicon_1-2.svg"
+  },
+  {
+    "title": "Notes Helps",
+    "description": "CAMS note taking is precisely next level. This allows you to draft and format the notes and save it in dedicated folders that can be created within. Have your team access the notes to speed up the case proceedings.",
+    "icon": "fontawesome47_1-1.svg"
+  }
+]
